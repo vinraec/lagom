@@ -11,24 +11,24 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
+    github: vinraec
     #bitbucket: philipj
-    hacker_news: swanson
+    #hacker_news: swanson
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: _swanson
-    #facebook: zuck
+    twitter: vinraec
+    facebook: vincentconley
     #tumblr: animalygifs
-    #linkedin: philipjagielski
+    linkedin: vincentconley
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
-  tagline: "weak opinions, strongly held"
+  name: Vincent Conley
+  email: conley.262@gmail.com
+  tagline: "capturing my thoughts before they are gone"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
